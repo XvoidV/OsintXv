@@ -1,4 +1,4 @@
-# 🕵️‍♂️ OsintXv - All-in-One OSINT Toolkit
+# 🕵️‍♂️ OsintXv - © Xvoid
 
 **OsintXv** adalah tools OSINT (Open Source Intelligence) berbasis Python yang dirancang untuk mengumpulkan informasi dari sumber publik seperti nomor telepon, IP, pencarian Google, dan lainnya. Cocok untuk investigasi, analisis, atau edukasi.
 
